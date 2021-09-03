@@ -1,0 +1,17 @@
+{
+  "name": "hello_world",
+  "version": "0.0.1",
+  "description": "Says hello to the world",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest ."
+  },
+  "author": "Adam Näslund",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^27.1.0",
+    "supertest": "^6.1.6"
+  }
+}
